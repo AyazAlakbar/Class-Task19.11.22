@@ -1,0 +1,14 @@
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\obj\Debug\netcoreapp3.1\h.w19.11.22-Class.csproj.AssemblyReference.cache
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\obj\Debug\netcoreapp3.1\h.w19.11.22-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\obj\Debug\netcoreapp3.1\h.w19.11.22-Class.AssemblyInfoInputs.cache
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\obj\Debug\netcoreapp3.1\h.w19.11.22-Class.AssemblyInfo.cs
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\obj\Debug\netcoreapp3.1\h.w19.11.22-Class.csproj.CoreCompileInputs.cache
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\bin\Debug\netcoreapp3.1\h.w19.11.22-Class.exe
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\bin\Debug\netcoreapp3.1\h.w19.11.22-Class.deps.json
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\bin\Debug\netcoreapp3.1\h.w19.11.22-Class.runtimeconfig.json
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\bin\Debug\netcoreapp3.1\h.w19.11.22-Class.runtimeconfig.dev.json
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\bin\Debug\netcoreapp3.1\h.w19.11.22-Class.dll
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\bin\Debug\netcoreapp3.1\h.w19.11.22-Class.pdb
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\obj\Debug\netcoreapp3.1\h.w19.11.22-Class.dll
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\obj\Debug\netcoreapp3.1\h.w19.11.22-Class.pdb
+C:\Users\ProBook\Desktop\h.w19.11.22-Class\h.w19.11.22-Class\obj\Debug\netcoreapp3.1\h.w19.11.22-Class.genruntimeconfig.cache
